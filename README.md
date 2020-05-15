@@ -1,4 +1,4 @@
-# LorenzEquations #Fortran #Python #lorenz 
+# Solving Lorenz equations numerically
 Resolvendo numericamente as equações de Lorenz pelos métodos Runge-Kutta 4°ordem e  Adams-Bashforth-Moulton 4°ordem.
 A implementação é em Fortran, os gráficos são em Python. 
 
